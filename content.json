@@ -1,0 +1,133 @@
+{
+  "profile": {
+    "name": "Your Name",
+    "location": "Your city, country",
+    "headline": "Your work. Clearly connected.",
+    "subtitle": "Your verified professional focus.",
+    "intro": [
+      "This is a fictional portfolio example. Replace these paragraphs with a concise description of your actual background, contribution and interests.",
+      "Describe what you have done, distinguish delivered work from plans, and identify where assistance or collaboration was involved."
+    ],
+    "practice": [
+      {
+        "title": "Your contribution",
+        "description": "Describe the decisions and work you personally contributed."
+      },
+      {
+        "title": "Your context",
+        "description": "Explain the business or product problem you worked on."
+      },
+      {
+        "title": "Your evidence",
+        "description": "Link to permitted demonstrations and verified outcomes."
+      }
+    ],
+    "experience": [
+      {
+        "id": "example-experience",
+        "role": "Example role \u2014 replace this",
+        "organization": "Fictional organization",
+        "period": "Your verified dates",
+        "category": "FICTIONAL EXAMPLE",
+        "points": [
+          "Replace with an accurate responsibility.",
+          "Add a supported outcome without confidential information."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": "example-education",
+        "title": "Example education \u2014 replace this",
+        "provider": "Fictional institution",
+        "period": "Your verified dates",
+        "status": "Fictional example",
+        "details": "Describe your actual education and current status."
+      }
+    ],
+    "languages": [
+      {
+        "name": "Your language",
+        "level": "Your actual level"
+      }
+    ],
+    "knowledgeNote": "Describe your actual knowledge level. Learning records and project technologies do not automatically establish independent programming proficiency."
+  },
+  "skills": [
+    {
+      "category": "Example practice",
+      "items": [
+        "Replace with work you can substantiate.",
+        "Describe your contribution and relevant context."
+      ]
+    },
+    {
+      "category": "Example technical familiarity",
+      "items": [
+        "List tools with an accurate description of your familiarity."
+      ]
+    }
+  ],
+  "introductoryKnowledge": [
+    "Example introductory topic"
+  ],
+  "projects": [
+    {
+      "id": "example-project",
+      "name": "Fictional integration example",
+      "order": 10,
+      "stage": "Fictional demonstration",
+      "summary": "An example showing how to structure a public case study.",
+      "contribution": "Replace with your actual contribution.",
+      "paragraphs": [
+        "This fictional example illustrates the content structure. It is not a claim of a real implementation or customer result.",
+        "Describe the problem, your contribution, stage and shareable evidence. Keep confidential methods and private data out of published files."
+      ],
+      "technologies": [
+        "Example component",
+        "Example integration"
+      ],
+      "technologyLabel": "Fictional example components",
+      "gallery": [
+        "example-diagram"
+      ],
+      "links": []
+    }
+  ],
+  "credentials": [
+    {
+      "id": "example-learning-record",
+      "title": "Fictional learning record",
+      "officialTitle": "Fictional learning record \u2014 demo only",
+      "issuer": "Fictional provider",
+      "date": "2026-01-01",
+      "duration": "Example duration",
+      "type": "demonstration image",
+      "topics": [
+        "Replace with verified learning topics"
+      ],
+      "images": [
+        "sample-certificate.svg"
+      ],
+      "verificationUrl": null,
+      "scope": "Fictional example, not a qualification",
+      "displayNote": "Demo image. Replace with a permitted certificate copy."
+    }
+  ],
+  "gallery": [
+    {
+      "id": "example-diagram",
+      "src": "sample-diagram.svg",
+      "caption": "Fictional diagram demonstrating the gallery.",
+      "alt": "A fictional input, review and output flow.",
+      "kind": "diagram"
+    }
+  ],
+  "contact": {
+    "email": "hello@example.com",
+    "linkedin": "https://example.com/your-profile",
+    "links": [],
+    "resume": "README.md",
+    "resumeDownloadName": "README.md"
+  }
+}
